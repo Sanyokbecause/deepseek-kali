@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DeepSeek
+Comment=Chat DeepSeek через nodriver Chrome
+Exec=bash -c 'source $HOME/antidetect/venv/bin/activate && python3 $HOME/antidetect/deepseek_launcher.py; exec bash'
+Icon=chromium
+Terminal=true
+Categories=Network;InstantMessaging;
+
