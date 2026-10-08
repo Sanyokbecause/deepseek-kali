@@ -19,3 +19,4 @@ ds
 - Kali Linux
 - Python 3.11+
 - Интернет
+# deepseek-kali
