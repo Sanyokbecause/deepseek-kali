@@ -20,3 +20,4 @@ ds
 - Python 3.11+
 - Интернет
 # deepseek-kali
+# deepseek-kali
